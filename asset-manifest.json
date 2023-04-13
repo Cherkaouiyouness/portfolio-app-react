@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio-app-react/static/css/main.ee8b5037.css",
+    "main.js": "/portfolio-app-react/static/js/main.b240612e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-app-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Chippewa.png": "/portfolio-app-react/static/media/Chippewa.8a3d04aefab02fd85d07.png",
+    "static/media/tools.jpg": "/portfolio-app-react/static/media/tools.0d6dafd06f00987325ac.jpg",
+    "static/media/hello-there.png": "/portfolio-app-react/static/media/hello-there.19ba612fd0a103f7d12e.png",
+    "static/media/form.png": "/portfolio-app-react/static/media/form.5acc6445074bafbf8def.png",
+    "static/media/Books.png": "/portfolio-app-react/static/media/Books.503df9440a2c4630b0d8.png",
+    "static/media/cv yo.jpg": "/portfolio-app-react/static/media/cv yo.749cc1dffc608f0e8a0b.jpg",
+    "static/media/YOYO.png": "/portfolio-app-react/static/media/YOYO.e47f5058e669198ff2e4.png",
+    "static/media/Me.png": "/portfolio-app-react/static/media/Me.dd93add8f1b45e1bb2c7.png",
+    "static/media/Yo.jpg": "/portfolio-app-react/static/media/Yo.993a564a22f912434bc2.jpg",
+    "static/media/Calculatrice.png": "/portfolio-app-react/static/media/Calculatrice.e0e16dbdbef0ee9ea496.png",
+    "static/media/address.png": "/portfolio-app-react/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/Time.png": "/portfolio-app-react/static/media/Time.5d5caa2fbd33411a9bd9.png",
+    "static/media/Horlogerie.png": "/portfolio-app-react/static/media/Horlogerie.bb0f965884129ba91fdc.png",
+    "static/media/email.png": "/portfolio-app-react/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/linkedin.png": "/portfolio-app-react/static/media/linkedin.b40f69674a945bb9a3e3.png",
+    "static/media/phone.png": "/portfolio-app-react/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/3W.jpg": "/portfolio-app-react/static/media/3W.b1dc3a0fed19852e8a5d.jpg",
+    "index.html": "/portfolio-app-react/index.html",
+    "main.ee8b5037.css.map": "/portfolio-app-react/static/css/main.ee8b5037.css.map",
+    "main.b240612e.js.map": "/portfolio-app-react/static/js/main.b240612e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-app-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee8b5037.css",
+    "static/js/main.b240612e.js"
+  ]
+}
