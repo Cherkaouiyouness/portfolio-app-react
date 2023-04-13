@@ -1,0 +1,31 @@
+
+{
+  "products" : [
+    {
+      "id": 1, 
+      "img": "img/Chippewa.png",
+      "link": "https://github.com/Cherkaouiyouness/Chippewa.git"
+    },{
+      "id": 2,
+      "img": "img/hello-there.png",
+      "link": "https://github.com/Cherkaouiyouness/maquettes-7.git"
+    },{
+      "id": 3,
+      "img": "img/Calculatrice.png",
+      "link": "https://github.com/Cherkaouiyouness/Calculatrice.git"
+    }
+    ,{
+      "id": 4,
+      "img": "img/Horlogerie.png",
+      "link": "https://github.com/Cherkaouiyouness/Chrono.git"
+    },{
+      "id": 5,
+      "img": "img/Time.png",
+      "link": "https://github.com/Cherkaouiyouness/Time.git"
+    },{
+      "id": 6,
+      "img": "img/Books.png",
+      "link": "https://github.com/Cherkaouiyouness/library-Js-fetch.git"
+    }
+  ]
+}
